@@ -1,0 +1,32 @@
+
+
+
+#nav {
+    display: inline-block;
+    list-style: none;
+    width: 100%;
+    background: #FAF1D4;
+    padding: 0;
+    
+}
+
+#nav a{
+    margin: 10px;
+}
+  
+#nav li{
+    float: left;
+    margin: 5px 30px;   
+
+
+}
+
+.body{
+    font-family: NanumSquareB;
+    src: local('NanumFontSetup_TTF_SQUARE'),
+        url('NanumSqareB.ttf') format('truetype');
+}
+
+
+
+
